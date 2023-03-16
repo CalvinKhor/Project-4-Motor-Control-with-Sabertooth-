@@ -8,3 +8,5 @@ Step 1:
 Step 2:
   Connecting up the Motor Driver to your Raspberry Pi 4
   For the sake of controlling on 1 motor, 
+  ![image](https://user-images.githubusercontent.com/92089905/225581416-b644f78d-dd99-4dd3-ad81-be2b20858320.png)
+
